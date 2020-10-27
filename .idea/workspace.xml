@@ -44,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603761091606</updated>
       <workItem from="1603761092644" duration="171000" />
-      <workItem from="1603761370794" duration="3623000" />
+      <workItem from="1603761370794" duration="4826000" />
     </task>
     <servers />
   </component>
@@ -56,5 +56,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1119" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603761218002" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1603778160981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603778160981" />
   </component>
 </project>
