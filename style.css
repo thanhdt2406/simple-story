@@ -1,0 +1,50 @@
+body {
+    background-color: limegreen;
+}
+
+.container {
+    background-color: white;
+    margin: 3em auto;
+    padding: 50px;
+    width: 70%;
+}
+
+.title {
+    text-align: center;
+    color: forestgreen;
+    background-color: gainsboro;
+}
+
+.title-image {
+    width: 100%;
+    height: 100%;
+}
+
+.title-image img{
+    width: 100%;
+}
+
+.index {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: bisque;
+}
+
+a {
+    display: block;
+    line-height: 50px;
+    text-decoration: none;
+}
+
+.content {
+    background-color: azure;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+.content h5 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 1.5em;
+}
